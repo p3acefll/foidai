@@ -6,7 +6,7 @@ from discord.ext import commands
 
 # ВАЖНО: Никогда не выкладывай токен в открытый доступ! 
 # Сбрось его в Discord Developer Portal прямо сейчас.
-token = 'MTA1MTE1NzcxNjkxNzI4OTA1MQ.GhFY9d.Z4fnVWc8entWaPujRjQ-2JP7VEreu_jQZC5GOw'
+token = ''
 prefix = '/'
 
 # Исправленное создание интентов

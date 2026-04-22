@@ -10,7 +10,7 @@ from faster_whisper import WhisperModel
 print(discord.__version__)
 print(discord.__file__)
 
-token = 'MTQ5NjUzOTE0Mzk2OTE4MTc4Ng.GcVZnY.gbRS-iCPwytF12ozhKmBtiTCfzMb-6odt_PqYg'
+token = ''
 prefix = '/'
 
 intents = discord.Intents.all()
